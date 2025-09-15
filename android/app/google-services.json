@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054485895762",
+    "project_id": "wizecheckin",
+    "storage_bucket": "wizecheckin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054485895762:android:db8d99c87b427c6c78dd8b",
+        "android_client_info": {
+          "package_name": "com.balbi.wizeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlkAkkE-WWv-pucCfzuB6PN2_ujrlCbRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054485895762:android:9451152aa518b19378dd8b",
+        "android_client_info": {
+          "package_name": "com.example.wize_checkin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlkAkkE-WWv-pucCfzuB6PN2_ujrlCbRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
